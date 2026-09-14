@@ -5,3 +5,4 @@ __pycache__/
 qdrant_db/
 qdrant_chunks/
 .DS_Store
+.token_usage.json
