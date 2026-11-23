@@ -1,0 +1,14 @@
+{"timestamp": "2026-11-21T19:28:19.989441+00:00", "action": "get_equipment_status", "params": {"equipment_id": "PUMP-07"}, "ok": true}
+{"timestamp": "2026-11-21T19:28:56.138448+00:00", "action": "create_incident", "params": {"equipment_id": "SEP-04", "priority": "high", "role": "engineer"}, "ok": true}
+{"timestamp": "2026-11-21T19:30:02.012076+00:00", "action": "get_equipment_status", "params": {"equipment_id": "XYZ-999"}, "ok": false}
+{"timestamp": "2026-11-21T19:32:32.557881+00:00", "action": "create_incident", "params": {"equipment_id": "SEP-04", "priority": "high", "role": "viewer"}, "ok": false}
+{"timestamp": "2026-11-21T19:45:33.130078+00:00", "action": "get_equipment_status", "params": {"equipment_id": "насос в дроблении"}, "ok": false}
+{"timestamp": "2026-11-21T20:55:27.202554+00:00", "action": "get_equipment_status", "params": {"equipment_id": "PUMP-07"}, "ok": true}
+{"timestamp": "2026-11-22T15:47:25.324390+00:00", "action": "get_equipment_status", "params": {"equipment_id": "насос в дроблении"}, "ok": false}
+{"timestamp": "2026-11-22T15:47:36.561555+00:00", "action": "get_equipment_status", "params": {"equipment_id": "PUMP-07"}, "ok": true}
+{"timestamp": "2026-11-22T15:47:58.885196+00:00", "action": "create_incident", "params": {"equipment_id": "SEP-04", "priority": "critical", "role": "admin"}, "ok": true}
+{"timestamp": "2026-11-22T15:48:19.481858+00:00", "action": "create_incident", "params": {"equipment_id": "PUMP-07", "priority": "urgent", "role": "engineer"}, "ok": false}
+{"timestamp": "2026-11-22T15:48:33.083875+00:00", "action": "create_incident", "params": {"equipment_id": "CONV-09", "priority": "low", "role": "viewer"}, "ok": false}
+{"timestamp": "2026-11-22T15:48:57.669430+00:00", "action": "create_incident", "params": {"equipment_id": "CONV-09", "priority": "low", "role": "viewer"}, "ok": false}
+{"timestamp": "2026-11-22T15:49:18.469125+00:00", "action": "create_incident", "params": {"equipment_id": "CONV-99", "priority": "high", "role": "engineer"}, "ok": false}
+{"timestamp": "2026-11-22T15:49:37.718332+00:00", "action": "get_equipment_status", "params": {"equipment_id": "PUMP-07"}, "ok": true}
